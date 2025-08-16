@@ -28,5 +28,5 @@ It provides a simple interface for creating, reading, updating, and deleting (CR
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Student-School-Management-System.git
-   cd Student-School-Management-System
+   git clone https://github.com/SamyaHamed/StudentSchoolSystem.git
+ 
