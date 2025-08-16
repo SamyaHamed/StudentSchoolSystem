@@ -1,5 +1,5 @@
 # Student-School Management System
-
+![SmartDesk Preview](imageSh.png)
 This project is a **training application** built with **.NET** that manages students and schools data.  
 It provides a simple interface for creating, reading, updating, and deleting (CRUD) records of students and schools.
 
